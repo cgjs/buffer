@@ -28,6 +28,9 @@
   },
   "homepage": "https://github.com/cgjs/buffer#readme",
   "devDependencies": {
-    "cgjs": "^0.1.9"
+    "cgjs": "^0.1.13"
+  },
+  "dependencies": {
+    "buffer": "^5.0.8"
   }
 }

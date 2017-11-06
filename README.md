@@ -1,6 +1,6 @@
 # @cgjs/buffer [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 
-buffer core module for cgjs
+[buffer](https://github.com/feross/buffer) core module for cgjs
 
 #### How to contribute
 
